@@ -1,0 +1,5 @@
+The ZedWRM project is a CRM application created specifically for a wholesale rice mill operation. The project aims to streamline daily operations for Zed Wholesale Rice Mill by enabling real-time tracking of rice production, sales, and inventory. Leveraging Salesforce CRM, the solution is designed to enhance customer management, improve reporting accuracy, and optimize daily processes. This project’s main objective is to boost operational efficiency and data accuracy while providing the mill’s owners with actionable insights for data-driven decisions and future growth.
+
+
+
+~AN
